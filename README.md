@@ -64,7 +64,8 @@ Created a shared folder accessible only to Designers and Developers groups
 
 The full documentation of all tasks and configurations is provided in the following PDF file:
 
-➡️ Windows server-2016 final project.pdf
+➡️ [Windows server-2016 final project.pdf](https://github.com/user-attachments/files/21098993/Windows.server-2016.final.project.pdf)
+
 
 This file includes task breakdowns (Tasks 1–16), screenshots, and configuration steps.
 
